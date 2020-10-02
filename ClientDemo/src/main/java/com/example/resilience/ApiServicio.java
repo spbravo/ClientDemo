@@ -57,7 +57,7 @@ public class ApiServicio {
 		/*
 		 * @RequestMapping(method = RequestMethod.GET, path= "/aemet") public
 		 * String AemetConsulta(@RequestParam(value="api_key", defaultValue=
-		 * "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzcGJyYXZvQGdtYWlsLmNvbSIsImp0aSI6IjgyNGM1Y2UzLWFmNzYtNDk0NS1hZDBmLTdhMDk1ZTIyMzJkZCIsImlzcyI6IkFFTUVUIiwiaWF0IjoxNTA5NTU2OTY5LCJ1c2VySWQiOiI4MjRjNWNlMy1hZjc2LTQ5NDUtYWQwZi03YTA5NWUyMjMyZGQiLCJyb2xlIjoiIn0.XAEUT7p_9sXrkavMunL9CtQySwUWOicCIbGfsYxdVZk")
+		 * oxNTA5NTU2OTY5LCJ1c2VySWQiOiI4MjRjNWNlMy1hZjc2LTQ5NDUtYWQwZi03YTA5NWUyMjMyZGQiLCJyb2xlIjoiIn0.XAEUT7p_9sXrkavMunL9CtQySwUWOicCIbGfsYxdVZk")
 		 * String apiKey){ respuesta=clienteAemet.consulta(apiKey);
 		 * System.out.println("El resultado final es "+respuesta); return
 		 * respuesta; }
